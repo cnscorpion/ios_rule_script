@@ -9,4 +9,6 @@ payload:
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weibocdn.com
+  - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,app-measurement
